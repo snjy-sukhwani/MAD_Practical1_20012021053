@@ -15,3 +15,17 @@ Then, Give the name of file and also choose File from the Menu
 
 Then, File will be Created
 ![image](https://user-images.githubusercontent.com/110806025/183687498-29db0816-2cf1-464c-a4a0-4bd8942ab052.png)
+
+Moving Further,
+Solving the Questions of the Practical :
+
+Question 1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+
+Solution :
+
+![image](https://user-images.githubusercontent.com/110806025/183698051-04a5271d-2196-408c-9b63-f74a4687536d.png)
+
+Output :
+
+![image](https://user-images.githubusercontent.com/110806025/183698162-e57dadff-fab5-4492-aee0-257042820d06.png)
+
