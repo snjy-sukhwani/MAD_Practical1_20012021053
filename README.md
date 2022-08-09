@@ -38,3 +38,13 @@ Solution :
 Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183702518-e0b1d8f9-34fa-4347-80a0-6f6e4a8ef612.png)
+
+Question 3 : Scan student’s information and display all the data.
+
+Solution :
+
+![image](https://user-images.githubusercontent.com/110806025/183703640-3be0864b-d9c8-440e-83c5-1a3ef59fd4a8.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/183703852-b1918bb7-57e6-47e7-a673-b9ab64de6303.png)
