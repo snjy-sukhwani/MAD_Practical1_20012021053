@@ -29,3 +29,12 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183698162-e57dadff-fab5-4492-aee0-257042820d06.png)
 
+Question 2 : Type conversion - Integer to Double, String to Integer, String to Double
+
+Solution :
+
+![image](https://user-images.githubusercontent.com/110806025/183702432-79a5c28e-8005-4441-9e27-d9260efa305d.png)
+
+Output :
+
+![image](https://user-images.githubusercontent.com/110806025/183702518-e0b1d8f9-34fa-4347-80a0-6f6e4a8ef612.png)
