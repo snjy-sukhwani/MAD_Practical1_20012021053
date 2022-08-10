@@ -19,6 +19,7 @@ Then, File will be Created
 Moving Further,
 Solving the Questions of the Practical :
 
+___________________________________________________________________________________________________________________________________________________________________________
 Question 1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 
 Solution :
@@ -29,6 +30,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183698162-e57dadff-fab5-4492-aee0-257042820d06.png)
 
+___________________________________________________________________________________________________________________________________________________________________________
 Question 2 : Type conversion - Integer to Double, String to Integer, String to Double
 
 Solution :
@@ -39,6 +41,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183702518-e0b1d8f9-34fa-4347-80a0-6f6e4a8ef612.png)
 
+___________________________________________________________________________________________________________________________________________________________________________
 Question 3 : Scan student’s information and display all the data.
 
 Solution :
@@ -48,3 +51,16 @@ Solution :
 Output : 
 
 ![image](https://user-images.githubusercontent.com/110806025/183703852-b1918bb7-57e6-47e7-a673-b9ab64de6303.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 4 : Find the number is odd or even
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/183964964-6fa9368d-2fed-450b-a811-f73d4eb97c11.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/183965402-eacea1e0-33d2-4de7-b39d-4cb29f6eb592.png)
+![image](https://user-images.githubusercontent.com/110806025/183965428-c79b4075-1e09-4432-bda4-290653adf6ec.png)
+
