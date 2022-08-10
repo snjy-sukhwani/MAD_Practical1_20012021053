@@ -51,3 +51,16 @@ Solution :
 Output : 
 
 ![image](https://user-images.githubusercontent.com/110806025/183703852-b1918bb7-57e6-47e7-a673-b9ab64de6303.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 4 : Find the number is odd or even
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/183964964-6fa9368d-2fed-450b-a811-f73d4eb97c11.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/183965402-eacea1e0-33d2-4de7-b39d-4cb29f6eb592.png)
+![image](https://user-images.githubusercontent.com/110806025/183965428-c79b4075-1e09-4432-bda4-290653adf6ec.png)
+
