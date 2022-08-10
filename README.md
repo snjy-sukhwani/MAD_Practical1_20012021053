@@ -64,3 +64,14 @@ Output :
 ![image](https://user-images.githubusercontent.com/110806025/183965402-eacea1e0-33d2-4de7-b39d-4cb29f6eb592.png)
 ![image](https://user-images.githubusercontent.com/110806025/183965428-c79b4075-1e09-4432-bda4-290653adf6ec.png)
 
+___________________________________________________________________________________________________________________________________________________________________________
+Question 5 : Display month name when user enter a month number using "when Expressions"
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/183976244-7b81a07c-848f-4139-82b9-443641104106.png)
+
+Output :
+
+![image](https://user-images.githubusercontent.com/110806025/183976339-5b9fe839-4cd8-4d8b-bd6f-e5e20d0c8cf7.png)
+![image](https://user-images.githubusercontent.com/110806025/183976389-78ec6f09-f482-43fc-8263-d591438cacbf.png)
