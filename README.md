@@ -86,3 +86,26 @@ Solution :
 Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185573355-ebdf609b-e19c-46fd-b967-17d5f4d3ef49.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185579184-cb37690e-889f-4013-8f64-5aeb8adaecba.png)
+
+Output :
+
+![image](https://user-images.githubusercontent.com/110806025/185579412-6dda3e63-cdc8-4e67-956d-d5641f0265a1.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185593911-5a28e39d-15e3-442d-a1d3-92a82950a248.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/185594201-b83bdc7c-607e-4658-8fcf-858a281bc29c.png)
+
