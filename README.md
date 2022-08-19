@@ -75,3 +75,14 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183976339-5b9fe839-4cd8-4d8b-bd6f-e5e20d0c8cf7.png)
 ![image](https://user-images.githubusercontent.com/110806025/183976389-78ec6f09-f482-43fc-8263-d591438cacbf.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 6 : By using a user defined function, perform all arithmetic operations
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185573296-463cf209-3c0c-4a33-8979-001938d35cdd.png)
+
+Output :
+
+![image](https://user-images.githubusercontent.com/110806025/185573355-ebdf609b-e19c-46fd-b967-17d5f4d3ef49.png)
