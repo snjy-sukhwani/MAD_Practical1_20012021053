@@ -86,3 +86,14 @@ Solution :
 Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185573355-ebdf609b-e19c-46fd-b967-17d5f4d3ef49.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185579184-cb37690e-889f-4013-8f64-5aeb8adaecba.png)
+
+Output :
+
+![image](https://user-images.githubusercontent.com/110806025/185579412-6dda3e63-cdc8-4e67-956d-d5641f0265a1.png)
