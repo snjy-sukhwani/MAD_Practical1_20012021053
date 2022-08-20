@@ -9,12 +9,12 @@ fun main() {
 
     // Creating Array by using Array<>()
     println("Creating Array-2 by using Array<>() : ")
-    val arr2 = Array<Int>(5) { _ -> 0 }
+    val arr2 = Array(5) { 0 }
     println(arr2.contentToString())
 
     // Creating Array by using Array<>() and lambda function
     println("Creating Array-3 by using Array<>() and lambda function : ")
-    val arr3 = Array<Int> (8) { i -> i }
+    val arr3 = Array(8) { i -> i }
     println(arr3.contentToString())
 
     // Creating Array by using IntArray()
