@@ -109,3 +109,15 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185594201-b83bdc7c-607e-4658-8fcf-858a281bc29c.png)
 
+___________________________________________________________________________________________________________________________________________________________________________
+Question 9 : Find the max number from ArrayList.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185598056-7022211e-688c-426f-a809-b4a5fae90b74.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/185598204-f1e08620-7663-4e88-a8ae-cccb1920d5b9.png)
+
+
