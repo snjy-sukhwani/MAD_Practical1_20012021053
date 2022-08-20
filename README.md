@@ -130,3 +130,16 @@ Solution :
 Output : 
 
 ![image](https://user-images.githubusercontent.com/110806025/185735735-92737397-9c4d-475a-a1bf-4b7513909d16.png)
+
+___________________________________________________________________________________________________________________________________________________________________________
+Question 11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185736018-99a0afbb-7a34-49b1-921b-b5689c908ed9.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/185736041-607f22ed-1470-41a9-873e-cf28a8aa9b6b.png)
+![image](https://user-images.githubusercontent.com/110806025/185736048-1b0c185e-3d5c-42da-9c6d-5959cab47791.png)
+
