@@ -1,6 +1,7 @@
 # MAD_Practical1_20012021053
 This is Practical 1 - KOTLIN PROGRAMS for Mobile Application Development (MAD).
 
+## Creating Project in Intellij IDEA 
 First of all,Open Intellij Idea and Create new Project in it and select language as "Kotlin".
 After Creating Project, you will get the Following Screen :
 ![image](https://user-images.githubusercontent.com/110806025/183686852-57db3543-cbc5-4a6a-beb9-ba8e5a92b201.png)
@@ -16,11 +17,9 @@ Then, Give the name of file and also choose File from the Menu
 Then, File will be Created
 ![image](https://user-images.githubusercontent.com/110806025/183687498-29db0816-2cf1-464c-a4a0-4bd8942ab052.png)
 
-Moving Further,
-Solving the Questions of the Practical :
+## Questions 
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+#### Question 1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 
 Solution :
 
@@ -30,8 +29,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183698162-e57dadff-fab5-4492-aee0-257042820d06.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 2 : Type conversion - Integer to Double, String to Integer, String to Double
+#### Question 2 : Type conversion - Integer to Double, String to Integer, String to Double
 
 Solution :
 
@@ -41,8 +39,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183702518-e0b1d8f9-34fa-4347-80a0-6f6e4a8ef612.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 3 : Scan student’s information and display all the data.
+#### Question 3 : Scan student’s information and display all the data.
 
 Solution :
 
@@ -52,8 +49,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/183703852-b1918bb7-57e6-47e7-a673-b9ab64de6303.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 4 : Find the number is odd or even
+#### Question 4 : Find the number is odd or even
 
 Solution : 
 
@@ -64,8 +60,7 @@ Output :
 ![image](https://user-images.githubusercontent.com/110806025/183965402-eacea1e0-33d2-4de7-b39d-4cb29f6eb592.png)
 ![image](https://user-images.githubusercontent.com/110806025/183965428-c79b4075-1e09-4432-bda4-290653adf6ec.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 5 : Display month name when user enter a month number using "when Expressions"
+#### Question 5 : Display month name when user enter a month number using "when Expressions"
 
 Solution : 
 
@@ -76,8 +71,7 @@ Output :
 ![image](https://user-images.githubusercontent.com/110806025/183976339-5b9fe839-4cd8-4d8b-bd6f-e5e20d0c8cf7.png)
 ![image](https://user-images.githubusercontent.com/110806025/183976389-78ec6f09-f482-43fc-8263-d591438cacbf.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 6 : By using a user defined function, perform all arithmetic operations
+#### Question 6 : By using a user defined function, perform all arithmetic operations
 
 Solution : 
 
@@ -87,8 +81,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185573355-ebdf609b-e19c-46fd-b967-17d5f4d3ef49.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
+#### Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 Solution : 
 
@@ -98,8 +91,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185579412-6dda3e63-cdc8-4e67-956d-d5641f0265a1.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+#### Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 Solution : 
 
@@ -109,8 +101,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185594201-b83bdc7c-607e-4658-8fcf-858a281bc29c.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 9 : Find the max number from ArrayList.
+#### Question 9 : Find the max number from ArrayList.
 
 Solution : 
 
@@ -120,8 +111,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185598204-f1e08620-7663-4e88-a8ae-cccb1920d5b9.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+#### Question 10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
 Solution : 
 
@@ -131,8 +121,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185735735-92737397-9c4d-475a-a1bf-4b7513909d16.png)
 
-___________________________________________________________________________________________________________________________________________________________________________
-Question 11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
+#### Question 11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 
 Solution : 
 
