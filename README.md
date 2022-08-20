@@ -132,3 +132,14 @@ Output :
 ![image](https://user-images.githubusercontent.com/110806025/185736041-607f22ed-1470-41a9-873e-cf28a8aa9b6b.png)
 ![image](https://user-images.githubusercontent.com/110806025/185736048-1b0c185e-3d5c-42da-9c6d-5959cab47791.png)
 
+## Exercises 
+
+#### Exercise 1 : Swap Value of two variables without using third variable and with using third variable.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185755983-060adc2c-ec92-4633-b9f3-f33953701f68.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/185756009-b380f197-e116-4790-a07a-f0e6d27b97a0.png)
