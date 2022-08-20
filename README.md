@@ -120,4 +120,13 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185598204-f1e08620-7663-4e88-a8ae-cccb1920d5b9.png)
 
+___________________________________________________________________________________________________________________________________________________________________________
+Question 10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/185735699-0f638499-7af7-4761-a095-1f18b798da65.png)
+
+Output : 
+
+![image](https://user-images.githubusercontent.com/110806025/185735735-92737397-9c4d-475a-a1bf-4b7513909d16.png)
