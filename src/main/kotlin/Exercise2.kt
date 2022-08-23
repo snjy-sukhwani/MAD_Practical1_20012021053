@@ -11,6 +11,7 @@ if parent have more than two different secondary constructor?
 Create List of 5 laptops in ArrayList and display all objects information.
 */
 
+
 // Making Class Product and also open it for inheritance
 open class Product(private var productName: String, private var productQty: Int, private var amountPerQty: Int) {
 
