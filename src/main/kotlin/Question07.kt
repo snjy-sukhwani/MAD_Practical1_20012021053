@@ -19,6 +19,6 @@ tailrec fun factTailrec(n:Int):Int {
 fun main() {
     print("Enter Number : ")
     val num : Int = readLine()!!.toInt()
-    println("Factorial of 5 : ${factLoop(num)}")
-    println("By Tailrec Keyword, Factorial of 5 : ${factTailrec(num)}")
+    println("Factorial of $num : ${factLoop(num)}")
+    println("By Tailrec Keyword, Factorial of $num : ${factTailrec(num)}")
 }

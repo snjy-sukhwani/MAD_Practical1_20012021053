@@ -7,7 +7,6 @@ fun main() {
     println("# Using Third Variable")
     println("\n\t---------- Before Swapping ----------")
     println("\ta = $a\n\tb = $b")
-
     // Swapping
     val temp = a
     a=b
@@ -22,7 +21,6 @@ fun main() {
     println("\n# Without Using Third Variable\n")
     println("\t---------- Before Swapping ----------")
     println("\tx = $x\n\ty = $y")
-
     // Swapping :
     x = (x + y)
     y = (x - y)
