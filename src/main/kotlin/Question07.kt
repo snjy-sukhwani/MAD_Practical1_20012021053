@@ -4,6 +4,7 @@
 // In tail recursion, calculations are performed first, then recursive calls are executed
 // To tell compiler to perform tail recursion in Kotlin, we need to mark the function with tailrec modifier.
 
+// Function to find Factorial using Loop
 fun factLoop(num:Int):Int{
     var fact=1
     for (i in 1..num) {
@@ -12,6 +13,7 @@ fun factLoop(num:Int):Int{
     return fact
 }
 
+// Function to find Factorial using tailrec keyword
 tailrec fun factTailrec(n:Int):Int {
     return if (n==1) 1 else n * factTailrec(n-1)
 }
