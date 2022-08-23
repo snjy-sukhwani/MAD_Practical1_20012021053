@@ -8,8 +8,10 @@ Create primary and secondary Constructor of both class.
 Create List of 5 students in ArrayList and display all objects information.
 */
 
+// Making a Person Class and open it for Inheritance
 open class Person(private val firstName: String, private val lastName: String, private val age: Int) {
 
+    // No need for Secondary Constructor here
     // Secondary Constructor for Class Person :
     // constructor() : this("Unknown", "Unknown", 0) {
     //     println("Secondary Constructor Called for Person !!")
@@ -26,6 +28,7 @@ open class Person(private val firstName: String, private val lastName: String, p
     }
 }
 
+// Making a Student Class
 class Student(
     private val studEnrollNo: String,
     private val studBranch: String,
