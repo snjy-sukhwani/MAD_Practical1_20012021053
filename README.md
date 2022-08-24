@@ -143,3 +143,16 @@ Solution :
 Output : 
 
 ![image](https://user-images.githubusercontent.com/110806025/185756009-b380f197-e116-4790-a07a-f0e6d27b97a0.png)
+
+#### Exercise 2 : Create two class named as Product and Laptop.Inherit with this information: Product class should be parent and child class should be Laptop class.Add Product Name, Quantity, Amount per Quantity in Product class.In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration.Create primary and secondary Constructor of both class.If Primary constructor is there then can we create secondary constructor in inheritance?If we can create secondary and primary constructor both in child class then what is restrictionif parent have more than two different secondary constructor?Create List of 5 laptops in ArrayList and display all objects information.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/186441215-30d22c42-9d5c-42e7-b599-050603d903e7.png)
+
+Output : 
+
+![Screenshot (1134)](https://user-images.githubusercontent.com/110806025/186442765-2cb5df95-65b3-4905-b70b-d8334c4cdb70.png)
+![Screenshot (1135)](https://user-images.githubusercontent.com/110806025/186442764-509fa422-11f6-4396-8e9d-415741eb2ce0.png)
+![Screenshot (1136)](https://user-images.githubusercontent.com/110806025/186442758-d25347d4-bf12-4cb6-b7a9-69870c99fa94.png)
+
