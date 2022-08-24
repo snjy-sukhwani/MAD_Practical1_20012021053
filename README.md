@@ -144,7 +144,7 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/110806025/185756009-b380f197-e116-4790-a07a-f0e6d27b97a0.png)
 
-#### Exercise 2 : Create two class named as Product and Laptop.Inherit with this information: Product class should be parent and child class should be Laptop class.Add Product Name, Quantity, Amount per Quantity in Product class.In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration.Create primary and secondary Constructor of both class.If Primary constructor is there then can we create secondary constructor in inheritance?If we can create secondary and primary constructor both in child class then what is restrictionif parent have more than two different secondary constructor?Create List of 5 laptops in ArrayList and display all objects information.
+#### Exercise 2 : Create two class named as Product and Laptop.Inherit with this information: Product class should be parent and child class should be Laptop class.Add Product Name, Quantity, Amount per Quantity in Product class.In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration.Create primary and secondary Constructor of both class.If Primary constructor is there then can we create secondary constructor in inheritance? If we can create secondary and primary constructor both in child class then what is restriction if parent have more than two different secondary constructor?Create List of 5 laptops in ArrayList and display all objects information.
 
 Solution : 
 
@@ -155,3 +155,18 @@ Output :
 ![ex2 (2)](https://user-images.githubusercontent.com/110806025/186444613-1c262d4d-ddbd-47e0-9c83-4fd91825fc1b.png)
 ![ex2 (3)](https://user-images.githubusercontent.com/110806025/186444620-448740f0-bc63-48f9-88c6-cc8fc0ded70e.png)
 ![ex2 (1)](https://user-images.githubusercontent.com/110806025/186444622-20f8b408-f4a5-4d0a-8e88-b6ab4961c532.png)
+
+#### Exercise 3 : Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. Create primary and secondary Constructor of both class. Create List of 5 students in ArrayList and display all objects information.
+
+Solution : 
+
+![image](https://user-images.githubusercontent.com/110806025/186445539-fe95b244-2bf3-4e1b-97c0-fdeb34032c0d.png)
+
+
+Output : 
+
+![ex3 (3)](https://user-images.githubusercontent.com/110806025/186448169-cbef5a9b-61e5-41ac-b71c-9f87a3c4de40.png)
+![ex3 (4)](https://user-images.githubusercontent.com/110806025/186448178-e81eba1e-579a-4090-a1cc-2ab85bb24f0b.png)
+![ex3 (5)](https://user-images.githubusercontent.com/110806025/186448181-4f7fd531-3100-4c12-bb76-26fd8bb686b4.png)
+![ex3 (1)](https://user-images.githubusercontent.com/110806025/186448183-1e14ea31-ca27-492e-b117-a8715aab860b.png)
+
