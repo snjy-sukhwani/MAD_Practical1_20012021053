@@ -152,7 +152,6 @@ Solution :
 
 Output : 
 
-![Screenshot (1134)](https://user-images.githubusercontent.com/110806025/186442765-2cb5df95-65b3-4905-b70b-d8334c4cdb70.png)
-![Screenshot (1135)](https://user-images.githubusercontent.com/110806025/186442764-509fa422-11f6-4396-8e9d-415741eb2ce0.png)
-![Screenshot (1136)](https://user-images.githubusercontent.com/110806025/186442758-d25347d4-bf12-4cb6-b7a9-69870c99fa94.png)
-
+![ex2 (2)](https://user-images.githubusercontent.com/110806025/186444613-1c262d4d-ddbd-47e0-9c83-4fd91825fc1b.png)
+![ex2 (3)](https://user-images.githubusercontent.com/110806025/186444620-448740f0-bc63-48f9-88c6-cc8fc0ded70e.png)
+![ex2 (1)](https://user-images.githubusercontent.com/110806025/186444622-20f8b408-f4a5-4d0a-8e88-b6ab4961c532.png)
